@@ -1,3 +1,22 @@
+## About Me
+Treavien Holley
+Computer Science BS Major, Senior
+Email: tholley@udel.edu
+
+# Portfolio
+
+<details>
+    <summary>CISC275</summary>
+    <br>
+    <details>
+        <summary>Hello World</summary>
+        <br>
+        ```
+        
+        ```
+    </details>
+</details>
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/TreaHolley/treaholley.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
