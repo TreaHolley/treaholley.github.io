@@ -2,6 +2,7 @@
 Treavien Holley
 Computer Science BS Major, Senior
 Email: tholley@udel.edu
+Github: https://github.com/TreaHolley/treaholley.github.io
 
 # Portfolio
 
@@ -12,7 +13,8 @@ Email: tholley@udel.edu
         <summary>Hello World</summary>
         <br>
         ```
-        
+        Used this typescript command to create a javascript file that prints hello world:
+        console.log('Hello, World!');
         ```
     </details>
 </details>
