@@ -1,8 +1,8 @@
 ## About Me
-Treavien Holley \n
-Computer Science BS Major, Senior \n
-Email: tholley@udel.edu \n
-Github: https://github.com/TreaHolley/treaholley.github.io
+Treavien Holley<br/>
+Computer Science BS Major, Senior<br/>
+Email: tholley@udel.edu<br/>
+Github: [click here](https://github.com/TreaHolley/treaholley.github.io)  
 
 # Portfolio
 
