@@ -1,58 +1,108 @@
-## About Me
+<head>
+    <title>Portfolio</title>
+</head>
+
+# About Me
 Treavien Holley<br/>
 Computer Science BS Major, Senior<br/>
 Email: tholley@udel.edu<br/>
 Github: [click here](https://github.com/TreaHolley/treaholley.github.io)  
 
-# Portfolio
 
+
+# Projects
 <details>
-    <summary>CISC275</summary>
+    <summary>Listed Projects:</summary>
     <br>
-    <details>
-        <summary>Hello World</summary>
-        <br>
-        ```
-        Used this typescript command to create a javascript file that prints hello world:
-        console.log('Hello, World!');
-        ```
-    </details>
+        <details>
+            <summary>Hello World</summary>
+                This was completed through the typescript download to confirm that it was downloaded and works correctly. From this I learned Typescript has the ability to create a javascript file to print a string of words to the console. 
+        </details>
 </details>
 
-## Welcome to GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/TreaHolley/treaholley.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+# Changelog
+<details>
+    <summary>Log List:</summary>
+    <br>
+        <details>
+            <summary>Week 1</summary>
+            <ul>
+                <li>Started to work on webpage</li>
+                <li>Completed HTML,CSS tutorials</li>
+                <li>Upload images to pages</li>
+                <li></li>
+            </ul>            
+        </details>
+        <details>
+            <summary>Week 2</summary>
+            <ul>
+                <li></li>
+                <li></li>
+                <li></li>
+                <li></li>
+            </ul>            
+        </details>
+        <details>
+            <summary>Week 3</summary>
+            <ul>
+                <li></li>
+                <li></li>
+                <li></li>
+                <li></li>
+            </ul>            
+        </details>
+        <details>
+            <summary>Week 4</summary>
+            <ul>
+                <li></li>
+                <li></li>
+                <li></li>
+                <li></li>
+            </ul>            
+        </details>
+</details>
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+# TODO
+<details>
+    <summary>TODO List:</summary>
+    <br>
+        <details>
+            <summary>Week 1</summary>
+            <ul>
+                <li></li>
+                <li></li>
+                <li></li>
+                <li></li>
+            </ul>            
+        </details>
+        <details>
+            <summary>Week 2</summary>
+            <ul>
+                <li></li>
+                <li></li>
+                <li></li>
+                <li></li>
+            </ul>            
+        </details>
+        <details>
+            <summary>Week 3</summary>
+            <ul>
+                <li></li>
+                <li></li>
+                <li></li>
+                <li></li>
+            </ul>            
+        </details>
+        <details>
+            <summary>Week 4</summary>
+            <ul>
+                <li></li>
+                <li></li>
+                <li></li>
+                <li></li>
+            </ul>            
+        </details>
+</details>
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/TreaHolley/treaholley.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
