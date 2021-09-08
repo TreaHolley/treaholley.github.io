@@ -12,7 +12,8 @@ Github: [click here](https://github.com/TreaHolley/treaholley.github.io)
     <br>
         <details>
             <summary>Hello World</summary>
-                This was completed through the typescript download to confirm that it was downloaded and works correctly. From this I learned Typescript has the ability to create a javascript file to print a string of words to the console. Used the command ```console.log('Hello, World!');``` in typescript which converted the same command to javascript to print "Hello, World!"
+                This was completed through the typescript download to confirm that it was downloaded and works correctly. From this I learned Typescript has the ability to create a javascript file to print a string of words to the console. Used the command ```test console.log('Hello, World!');
+                ``` in typescript which converted the same command to javascript to print "Hello, World!"
         </details>
 </details>
 
