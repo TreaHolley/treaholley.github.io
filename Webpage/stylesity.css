@@ -16,6 +16,7 @@ header nav h1 {
     float: left;
     line-height: 70px;
     font-size: 50px;
+    padding: 30px;
 }
 
 header nav ul {
