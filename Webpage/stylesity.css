@@ -16,14 +16,14 @@ header nav h1 {
 
 header nav ul {
     list-style: none;
-    float: right;
+    float: right, center;
     margin: 0;
     padding: 0;
     display: flex;
 }
 
 header nav ul li a {
-    float: left;
+    float: left, center;
     line-height: 50px;
     padding: 30px;
     font-weight: bold;
