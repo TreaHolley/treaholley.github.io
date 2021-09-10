@@ -18,6 +18,10 @@ Github: [click here](https://github.com/TreaHolley/treaholley.github.io)
                     console.log('Hello, World!');                                                              
                 </pre>
         </details>
+        <details>
+            <summary>Stylesity Webpage</summary>
+            I started to develop a website and built the main framework of it. I have a navbar that I could attach pages to. I tried to atta a image carousel but it is not working how it is suppossed to. I learned from development that the little things can break everything so I am going to look for the solution. Find the code to website: [here](https://github.com/TreaHolley/treaholley.github.io/tree/main/Webpage).
+        </details>
 </details>
 
 <br>
@@ -31,8 +35,9 @@ Github: [click here](https://github.com/TreaHolley/treaholley.github.io)
             <ul>
                 <li>Started to work on webpage</li>
                 <li>Completed HTML,CSS tutorials</li>
-                <li>Upload images to pages</li>
-                <li></li>
+                <li>Implemented a broken carousel</li>
+                <li>Added nav bar to webpade</li>
+                <li>Started learning bootstrap</li>
             </ul>            
         </details>
         <details>
@@ -74,18 +79,18 @@ Github: [click here](https://github.com/TreaHolley/treaholley.github.io)
             <summary>Week 1</summary>
             <ul>
                 <li>Update Webpage Design</li>
-                <li>Complete Javascript Tutorials</li>
-                <li>Figure out scrolling menu in html</li>
+                <li>Complete use of Bootstrap</li>
+                <li>Figure out scrolling menu in bootstrao</li>
                 <li>Work on nav bar</li>
             </ul>            
         </details>
         <details>
             <summary>Week 2</summary>
             <ul>
-                <li></li>
-                <li></li>
-                <li></li>
-                <li></li>
+                <li>Complete Javascript & Bootstrap Tutorials</li>
+                <li>Fix carousel</li>
+                <li>Finish nav bar</li>
+                <li>Use more css on webpage</li>
             </ul>            
         </details>
         <details>
