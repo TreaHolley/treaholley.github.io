@@ -91,6 +91,7 @@ Github: [click here](https://github.com/TreaHolley/treaholley.github.io)
                 <li>Fix carousel</li>
                 <li>Finish nav bar</li>
                 <li>Use more css on webpage</li>
+                <li>Do reviews</li>
             </ul>            
         </details>
         <details>
