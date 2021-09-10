@@ -20,7 +20,7 @@ Github: [click here](https://github.com/TreaHolley/treaholley.github.io)
         </details>
         <details>
             <summary>Stylesity Webpage</summary>
-            I started to develop a website and built the main framework of it. I have a navbar that I could attach pages to. I tried to atta a image carousel but it is not working how it is suppossed to. I learned from development that the little things can break everything so I am going to look for the solution. Find the code to website: [here](https://github.com/TreaHolley/treaholley.github.io/tree/main/Webpage).
+            I started to develop a website and built the main framework of it. I have a navbar that I could attach pages to. I tried to atta a image carousel but it is not working how it is suppossed to. I learned from development that the little things can break everything so I am going to look for the solution. Find the code to website: https://github.com/TreaHolley/treaholley.github.io/tree/main/Webpage.
         </details>
 </details>
 
