@@ -6,13 +6,15 @@ Github: [click here](https://github.com/TreaHolley/treaholley.github.io)
 
 <br>
 
+NOTE: Form my projects, changelog, and todos they all consist of dropdown menus so please click on them for further info. Thanks!
+
 # Projects
 <details>
     <summary>Listed Projects:</summary>
     <br>
         <details>
             <summary>Hello World</summary>
-                This was completed through the typescript download to confirm that it was downloaded and works correctly. From this I learned Typescript has the ability to create a javascript file to print a string of words to the console. Used the command below in typescript which converted the same command to javascript to print "Hello, World!"
+                <p>This was completed through the typescript download to confirm that it was downloaded and works correctly. From this I learned Typescript has the ability to create a javascript file to print a string of words to the console. Used the command below in typescript which converted the same command to javascript to print "Hello, World!"</p>
                 <br/>
                 <pre>                                                                                         
                     console.log('Hello, World!');                                                              
@@ -20,7 +22,7 @@ Github: [click here](https://github.com/TreaHolley/treaholley.github.io)
         </details>
         <details>
             <summary>Stylesity Webpage</summary>
-            I started to develop a website and built the main framework of it. I have a navbar that I could attach pages to. I tried to atta a image carousel but it is not working how it is suppossed to. I learned from development that the little things can break everything so I am going to look for the solution. Find the code to website: https://github.com/TreaHolley/treaholley.github.io/tree/main/Webpage.
+            <p>I started to develop a website and built the main framework of it. I have a navbar that I could attach pages to. I tried to atta a image carousel but it is not working how it is suppossed to. I learned from development that the little things can break everything so I am going to look for the solution. Find the code to website: https://github.com/TreaHolley/treaholley.github.io/tree/main/Webpage.</p>
         </details>
 </details>
 
