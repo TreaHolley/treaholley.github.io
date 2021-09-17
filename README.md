@@ -22,7 +22,7 @@ NOTE: Form my projects, changelog, and todos they all consist of dropdown menus 
         </details>
         <details>
             <summary>Stylesity Webpage</summary>
-            <p>I started to develop a website and built the main framework of it. I have a navbar that I could attach pages to. I tried to atta a image carousel but it is not working how it is suppossed to. I learned from development that the little things can break everything so I am going to look for the solution. Find the code to website: https://github.com/TreaHolley/treaholley.github.io/tree/main/Webpage.</p>
+            <p>I started to develop a website and built the main framework of it. I have a navbar that I could attach pages to. I fixed the carousel to work so now it can move on its own or when you click the button. I ran into sizing issues with the carosel and am working on a fix. I have a responsive nav that I am working on but the drop down css is not working so I may rework my code into something slightly new to get it to work. Find the code to website: https://github.com/TreaHolley/treaholley.github.io/tree/main/Webpage.</p>
         </details>
 </details>
 
@@ -45,10 +45,10 @@ NOTE: Form my projects, changelog, and todos they all consist of dropdown menus 
         <details>
             <summary>Week 2</summary>
             <ul>
-                <li></li>
-                <li></li>
-                <li></li>
-                <li></li>
+                <li>Got my nav bar styled then broke it trying to make it better so now working on a new project to fix it</li>
+                <li>implemented a responsive carousel that was broken last week and now it even moves on its own, but it still needs a resize maybe</li>
+                <li>aligned mission statement just more css practice</li>
+                <li>starting to add reviews</li>
             </ul>            
         </details>
         <details>
@@ -99,10 +99,11 @@ NOTE: Form my projects, changelog, and todos they all consist of dropdown menus 
         <details>
             <summary>Week 3</summary>
             <ul>
-                <li></li>
-                <li></li>
-                <li></li>
-                <li></li>
+                <li>Use react to turn webpage into a live link instead of file</li>
+                <li>build web links pages with javascript</li>
+                <li>add footer design to home webpage</li>
+                <li>build miniproject if time permits me</li>
+                <li>add links that I have used to learn to help others</li>
             </ul>            
         </details>
         <details>
@@ -115,4 +116,10 @@ NOTE: Form my projects, changelog, and todos they all consist of dropdown menus 
             </ul>            
         </details>
 </details>
+
+# REVIEWS
+
+I will be doing reviews on tutorial documents stating what I learned, what could have been better and would I recommend it.
+
+* Flexbot Froggy was a really good interactive tool to learn css. I believe the best way to learn is by doing and this webpage gives a great way to practice while learning about styling using css. I believe they should add more problems to the webpage since the training is a little short but I definently would recommend. 
 
