@@ -120,6 +120,7 @@ NOTE: Form my projects, changelog, and todos they all consist of dropdown menus 
             </ul>            
         </details>
 </details>
+<br>
 
 # REVIEWS
 
