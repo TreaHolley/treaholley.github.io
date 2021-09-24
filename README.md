@@ -22,7 +22,7 @@ NOTE: Form my projects, changelog, and todos they all consist of dropdown menus 
         </details>
         <details>
             <summary>Stylesity Webpage</summary>
-            <p>I started to develop a website and built the main framework of it. I have a navbar that I could attach pages to. I fixed the carousel to work so now it can move on its own or when you click the button. I ran into sizing issues with the carosel and am working on a fix. The carousel uses bootstrap along with some javascript. I have a responsive nav that I am working on but the drop down css is not working so I may rework my code into something slightly new to get it to work. I want to build this into a full fledged webpage so I haven't moved into other projects yet since there is still a lot for me to learn here. See live website here: https://treaholley.github.io/Clothing-Webpage/. Find the code to website: https://github.com/TreaHolley/Clothing-Webpage.</p>
+            <p>I started to develop a website and built the main framework of it. I have a navbar that I could attach pages to. I fixed the carousel to work so now it can move on its own or when you click the button. I ran into sizing issues with the carosel and am working on a fix. The carousel uses bootstrap along with some javascript. I have a responsive nav that I am working on but the drop down css is not working so I may rework my code into something slightly new to get it to work. The dropdown is not working due to me not using the bootstrap verson so the language is clashing. I want to build this into a full fledged webpage so I haven't moved into other projects yet since there is still a lot for me to learn here. See live website here: https://treaholley.github.io/Clothing-Webpage/. Find the code to website: https://github.com/TreaHolley/Clothing-Webpage.</p>
         </details>
 </details>
 
@@ -54,10 +54,10 @@ NOTE: Form my projects, changelog, and todos they all consist of dropdown menus 
         <details>
             <summary>Week 3</summary>
             <ul>
-                <li></li>
-                <li></li>
-                <li></li>
-                <li></li>
+                <li>Figured out my dropdown bug</li>
+                <li>Created a react app</li>
+                <li>Implemented a task list in react</li>
+                <li>Added checkboxes next to tasks</li>
             </ul>            
         </details>
         <details>
@@ -109,10 +109,10 @@ NOTE: Form my projects, changelog, and todos they all consist of dropdown menus 
         <details>
             <summary>Week 4</summary>
             <ul>
-                <li></li>
-                <li></li>
-                <li></li>
-                <li></li>
+                <li>Task to be draggable boxcards</li>
+                <li>Able to chance status of a task</li>
+                <li>Style React App</li>
+                <li>Fix dropdowns to be in bootstrap</li>
             </ul>            
         </details>
 </details>
