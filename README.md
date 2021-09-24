@@ -24,6 +24,10 @@ NOTE: Form my projects, changelog, and todos they all consist of dropdown menus 
             <summary>Stylesity Webpage</summary>
             <p>I started to develop a website and built the main framework of it. I have a navbar that I could attach pages to. I fixed the carousel to work so now it can move on its own or when you click the button. I ran into sizing issues with the carosel and am working on a fix. The carousel uses bootstrap along with some javascript. I have a responsive nav that I am working on but the drop down css is not working so I may rework my code into something slightly new to get it to work. The dropdown is not working due to me not using the bootstrap verson so the language is clashing. I want to build this into a full fledged webpage so I haven't moved into other projects yet since there is still a lot for me to learn here. See live website here: https://treaholley.github.io/Clothing-Webpage/. Find the code to website: https://github.com/TreaHolley/Clothing-Webpage.</p>
         </details>
+        <details>
+            <summary>Planner App</summary>
+            <p>I created a react app that will turn into a planner. This will be very interactive. Find the code here: https://github.com/TreaHolley/react-ToDoList</p>
+        </details>
 </details>
 
 <br>
