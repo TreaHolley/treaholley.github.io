@@ -28,6 +28,10 @@ NOTE: Form my projects, changelog, and todos they all consist of dropdown menus 
             <summary>Planner App</summary>
             <p>I created a react app that will turn into a planner. This will be very interactive. Find the code here: https://github.com/TreaHolley/react-ToDoList</p>
         </details>
+        <details>
+            <summary>Shopping Cart</summary>
+            <p>This was my first crack at using type script and I was able to learn alot about different components and how much work it is just to create a shopping cart for a website that I plan to create in the future. Find code here: https://github.com/TreaHolley/react-shopping-cart. Tutorial used is here: https://www.youtube.com/watch?v=sfmL6bGbiN8</p>
+        </details>
 </details>
 
 <br>
@@ -67,10 +71,10 @@ NOTE: Form my projects, changelog, and todos they all consist of dropdown menus 
         <details>
             <summary>Week 4</summary>
             <ul>
-                <li></li>
-                <li></li>
-                <li></li>
-                <li></li>
+                <li>created new typescript app</li>
+                <li>followed tutorial for app and gain better understanding</li>
+                <li>learned new styles and types</li>
+                <li>added more interactive buttons that work with api</li>
             </ul>            
         </details>
 </details>
